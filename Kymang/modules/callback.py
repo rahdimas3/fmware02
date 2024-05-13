@@ -100,7 +100,7 @@ async def _(_, callback_query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "🎥 Tutorial", url="https://t.me/TutorialDeploy"
+                        "🎥 Tutorial", url="https://t.me/fsubtutorialdeploy"
                     ),
                 ],
                 [
