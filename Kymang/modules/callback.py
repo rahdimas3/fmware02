@@ -151,7 +151,7 @@ async def _(c, callback_query: CallbackQuery):
     kymang = await cek_seller()
     if user_id not in MEMBER and user_id not in kymang:
         await callback_query.message.edit(
-            "**⚙️𝙙𝙚𝙥𝙡𝙤𝙮 𝙁𝙎𝙐𝘽𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝙗𝙮**\n\n**𝘢𝘯𝘥𝘢 𝘣𝘦𝘭𝘶𝘮 𝘮𝘦𝘮𝘪𝘭𝘪𝘬𝘪 𝘢𝘬𝘴𝘦𝘴 𝘴𝘦𝘵𝘵𝘪𝘯𝘨 𝘣𝘰𝘵, 𝘭𝘢𝘬𝘶𝘬𝘢𝘯 𝘬𝘰𝘯𝘧𝘪𝘳𝘮𝘢𝘴𝘪 𝘱𝘦𝘮𝘣𝘦𝘭𝘪𝘢𝘯 𝘣𝘰𝘵 𝘮𝘦𝘭𝘢𝘭𝘶𝘪 𝘢𝘥𝘮𝘪𝘯**\n\n**• 𝘱𝘳𝘦𝘷𝘪𝘦𝘸 𝘣𝘰𝘵 @𝘤𝘳𝘦𝘢𝘵𝘦𝘣𝘰𝘵𝘧𝘴𝘶𝘣**\n\n**ᴀᴋsᴇs ᴅᴇᴘʟᴏʏ ᴀᴋᴀɴ ᴅɪʙᴇʀɪᴋᴀɴ sᴇᴛᴇʟᴀʜ ᴍᴇɴʏᴇʟᴇsᴀɪᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ!**",
+            "**⚙️𝙙𝙚𝙥𝙡𝙤𝙮 𝙁𝙎𝙐𝘽𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝙗𝙮**\n\n**𝘢𝘯𝘥𝘢 𝘣𝘦𝘭𝘶𝘮 𝘮𝘦𝘮𝘪𝘭𝘪𝘬𝘪 𝘢𝘬𝘴𝘦𝘴 𝘴𝘦𝘵𝘵𝘪𝘯𝘨 𝘣𝘰𝘵, 𝘭𝘢𝘬𝘶𝘬𝘢𝘯 𝘬𝘰𝘯𝘧𝘪𝘳𝘮𝘢𝘴𝘪 𝘱𝘦𝘮𝘣𝘦𝘭𝘪𝘢𝘯 𝘣𝘰𝘵 𝘮𝘦𝘭𝘢𝘭𝘶𝘪 𝘢𝘥𝘮𝘪𝘯**\n\n**• 𝘱𝘳𝘦𝘷𝘪𝘦𝘸 𝘣𝘰𝘵 @createbotfsub**\n\n**ᴀᴋsᴇs ᴅᴇᴘʟᴏʏ ᴀᴋᴀɴ ᴅɪʙᴇʀɪᴋᴀɴ sᴇᴛᴇʟᴀʜ ᴍᴇɴʏᴇʟᴇsᴀɪᴋᴀɴ ᴘᴇᴍʙᴀʏᴀʀᴀɴ!**",
             reply_markup=InlineKeyboardMarkup(
             [
                 [
