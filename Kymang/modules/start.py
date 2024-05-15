@@ -52,7 +52,9 @@ start_msg = """
 **ʜᴀʟᴏ {}👋,
 
 sᴀʏᴀ ᴀᴅᴀʟᴀʜ {}​ ʏᴀɴɢ ᴍᴇᴍᴘᴇʀᴍᴜᴅᴀʜ ᴋᴀʟɪᴀɴ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴜᴀᴛ ʙᴏᴛ ғɪʟᴇ sʜᴀʀɪɴɢ ᴛᴀɴᴘᴀ ʜᴀʀᴜs ᴍᴇᴍɪʟɪᴋɪ ᴠᴘs/ʜᴇʀᴏᴋᴜ sᴇɴᴅɪʀɪ
-sɪʟᴀʜᴋᴀɴ ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜʟᴀɪɴʏᴀ**
+sɪʟᴀʜᴋᴀɴ ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜʟᴀɪɴʏᴀ
+
+Note : Jika kamu tidak bisa mendeploy sendiri, Anda bisa menghubungi salah satu dari seller kami yang tertera di bot ini**
 """
 
 about_msg = """
