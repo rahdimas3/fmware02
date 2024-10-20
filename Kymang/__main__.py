@@ -9,6 +9,7 @@ import sys
 
 from atexit import register
 
+from pyrogram import __version__ as pyrover
 from pyrogram import idle
 from pyrogram.errors import RPCError
 from pyrogram.types import BotCommand
@@ -20,9 +21,9 @@ from Kymang.modules.data import get_bot, remove_bot
 from Kymang.modules.plernya import *
 
 msg = """
-Berhasil Di Aktifkan
-Python Version {}
-Pyrogram Version {}
+**Berhasil Di Aktifkan**
+**Python Version** `{}`
+**Pyrogram Version** `{}`
 """
 
 #async def auto_restart():
@@ -52,6 +53,6 @@ async def main():
     await idle()
 
 
-if name == "main":
+if __name__ == "__main__":
     LOGGER("Info").info("JIKA BUTUH BANTUAN SILAHKAN HUBUNGI @OneWatchBokep")
     LOOP.run_until_complete(main())
