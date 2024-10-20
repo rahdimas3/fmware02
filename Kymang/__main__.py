@@ -9,7 +9,6 @@ import sys
 
 from atexit import register
 
-from pyrogram import version as pyrover
 from pyrogram import idle
 from pyrogram.errors import RPCError
 from pyrogram.types import BotCommand
