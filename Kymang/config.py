@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv(".env")
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6938657094:AAFpqnpOrg6Ne90WbhT_-FC8ieLd3UA6IRA")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6938657094:AAEy6kRa3CVRJEfv_NyHFeD4foOv_m6FbwI")
 API_ID = int(os.environ.get("API_ID", "17131033"))
 API_HASH = os.environ.get("API_HASH", "7768488c115ac09684bb38e608c47997")
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://stanlev:stanlev@cluster0.kiciq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
